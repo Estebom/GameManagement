@@ -1,0 +1,48 @@
+﻿@page "/"
+@using GameManagement.Data
+@using GameManagement.Data.Models
+
+<PageTitle>Home</PageTitle>
+
+<h1>Hello, world!</h1>
+
+@if (games.Count > 0)
+{
+    <Card>
+    <select>
+        @foreach (Game game in games)
+        {
+        <option>@game.Name</option>    
+
+        }
+
+
+
+    </select>
+    </Card>
+}
+
+
+
+
+Welcome to your new app.
+
+@code
+{
+    [Inject]
+    GameServiceConnector gameServiceConnector { get; set; }
+
+    List<Game> games = new List<Game>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        games = await gameServiceConnector.GetGameAsync();
+        foreach (Game game in games)
+        {
+
+            Console.WriteLine(game.Name);
+        }
+    }
+
+
+}
