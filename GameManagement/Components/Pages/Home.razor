@@ -46,7 +46,7 @@ Welcome to your new app.
     {
         var authState = await AuthenticationState; // getting auth and setting the token to use for the service connector.
         var token = authState.User.FindFirst("token")?.Value;
-        Console.WriteLine(token);
+        Console.WriteLine(token );
 
             gameServiceConnector.SetToken(token);
         

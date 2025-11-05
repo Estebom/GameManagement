@@ -105,7 +105,7 @@
         {
             GameManagementUser user = await UserManager.GetUserAsync(HttpContext.User);
             string token = tokenProvider.Create(user); //creating token using the token provider.
-
+            Console.WriteLine(token);
             var claims = new List<Claim> //creating claim to store token in cookies
             {
                 new Claim("token", token)
