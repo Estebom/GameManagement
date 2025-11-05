@@ -7,7 +7,7 @@ namespace GameManagement.Data
     public class GameServiceConnector
     {
         HttpClient httpClient;
-        private readonly string endpoint = "http://localhost:5181/";
+        private readonly string endpoint = "https://localhost:7202/";
         public GameServiceConnector()
         {
             httpClient = new HttpClient();

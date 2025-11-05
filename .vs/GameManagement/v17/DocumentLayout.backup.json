@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\1171083\\source\\repos\\GameManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86E29E17-9703-4BC4-A991-64AC783977C6}|GameManagement\\GameManagement.csproj|c:\\users\\1171083\\source\\repos\\gamemanagement\\gamemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{86E29E17-9703-4BC4-A991-64AC783977C6}|GameManagement\\GameManagement.csproj|solutionrelative:gamemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86E29E17-9703-4BC4-A991-64AC783977C6}|GameManagement\\GameManagement.csproj|c:\\users\\1171083\\source\\repos\\gamemanagement\\gamemanagement\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{86E29E17-9703-4BC4-A991-64AC783977C6}|GameManagement\\GameManagement.csproj|solutionrelative:gamemanagement\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{86E29E17-9703-4BC4-A991-64AC783977C6}|GameManagement\\GameManagement.csproj|c:\\users\\1171083\\source\\repos\\gamemanagement\\gamemanagement\\data\\gameserviceconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E29E17-9703-4BC4-A991-64AC783977C6}|GameManagement\\GameManagement.csproj|solutionrelative:gamemanagement\\data\\gameserviceconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{86E29E17-9703-4BC4-A991-64AC783977C6}|GameManagement\\GameManagement.csproj|c:\\users\\1171083\\source\\repos\\gamemanagement\\gamemanagement\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{86E29E17-9703-4BC4-A991-64AC783977C6}|GameManagement\\GameManagement.csproj|solutionrelative:gamemanagement\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86E29E17-9703-4BC4-A991-64AC783977C6}|GameManagement\\GameManagement.csproj|c:\\users\\1171083\\source\\repos\\gamemanagement\\gamemanagement\\data\\gameserviceconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86E29E17-9703-4BC4-A991-64AC783977C6}|GameManagement\\GameManagement.csproj|solutionrelative:gamemanagement\\data\\gameserviceconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86E29E17-9703-4BC4-A991-64AC783977C6}|GameManagement\\GameManagement.csproj|c:\\users\\1171083\\source\\repos\\gamemanagement\\gamemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{86E29E17-9703-4BC4-A991-64AC783977C6}|GameManagement\\GameManagement.csproj|solutionrelative:gamemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E29E17-9703-4BC4-A991-64AC783977C6}|GameManagement\\GameManagement.csproj|c:\\users\\1171083\\source\\repos\\gamemanagement\\gamemanagement\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{86E29E17-9703-4BC4-A991-64AC783977C6}|GameManagement\\GameManagement.csproj|solutionrelative:gamemanagement\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E29E17-9703-4BC4-A991-64AC783977C6}|GameManagement\\GameManagement.csproj|c:\\users\\1171083\\source\\repos\\gamemanagement\\gamemanagement\\components\\account\\tokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E29E17-9703-4BC4-A991-64AC783977C6}|GameManagement\\GameManagement.csproj|solutionrelative:gamemanagement\\components\\account\\tokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E29E17-9703-4BC4-A991-64AC783977C6}|GameManagement\\GameManagement.csproj|c:\\users\\1171083\\source\\repos\\gamemanagement\\gamemanagement\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86E29E17-9703-4BC4-A991-64AC783977C6}|GameManagement\\GameManagement.csproj|solutionrelative:gamemanagement\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{86E29E17-9703-4BC4-A991-64AC783977C6}|GameManagement\\GameManagement.csproj|c:\\users\\1171083\\source\\repos\\gamemanagement\\gamemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -40,14 +48,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{86E29E17-9703-4BC4-A991-64AC783977C6}|GameManagement\\GameManagement.csproj|c:\\users\\1171083\\source\\repos\\gamemanagement\\gamemanagement\\components\\account\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{86E29E17-9703-4BC4-A991-64AC783977C6}|GameManagement\\GameManagement.csproj|solutionrelative:gamemanagement\\components\\account\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86E29E17-9703-4BC4-A991-64AC783977C6}|GameManagement\\GameManagement.csproj|c:\\users\\1171083\\source\\repos\\gamemanagement\\gamemanagement\\components\\account\\tokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86E29E17-9703-4BC4-A991-64AC783977C6}|GameManagement\\GameManagement.csproj|solutionrelative:gamemanagement\\components\\account\\tokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86E29E17-9703-4BC4-A991-64AC783977C6}|GameManagement\\GameManagement.csproj|c:\\users\\1171083\\source\\repos\\gamemanagement\\gamemanagement\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{86E29E17-9703-4BC4-A991-64AC783977C6}|GameManagement\\GameManagement.csproj|solutionrelative:gamemanagement\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{86E29E17-9703-4BC4-A991-64AC783977C6}|GameManagement\\GameManagement.csproj|c:\\users\\1171083\\source\\repos\\gamemanagement\\gamemanagement\\gamemanagement.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -101,11 +101,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Login.razor",
               "DocumentMoniker": "C:\\Users\\1171083\\source\\repos\\GameManagement\\GameManagement\\Components\\Account\\Pages\\Login.razor",
               "RelativeDocumentMoniker": "GameManagement\\Components\\Account\\Pages\\Login.razor",
@@ -114,25 +114,11 @@
               "ViewState": "AgIAAF0AAAAAAAAAAAAAAGsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-05T14:57:16.922Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\1171083\\source\\repos\\GameManagement\\GameManagement\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "GameManagement\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\1171083\\source\\repos\\GameManagement\\GameManagement\\Properties\\launchSettings.json",
-              "RelativeToolTip": "GameManagement\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-05T15:05:54.097Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -159,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\1171083\\source\\repos\\GameManagement\\GameManagement\\appsettings.Development.json",
               "RelativeDocumentMoniker": "GameManagement\\appsettings.Development.json",
@@ -167,7 +153,8 @@
               "RelativeToolTip": "GameManagement\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-05T15:05:02.911Z"
+              "WhenOpened": "2025-11-05T15:05:02.911Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -183,13 +170,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\1171083\\source\\repos\\GameManagement\\GameManagement\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "GameManagement\\Components\\Layout\\NavMenu.razor",
               "ToolTip": "C:\\Users\\1171083\\source\\repos\\GameManagement\\GameManagement\\Components\\Layout\\NavMenu.razor",
               "RelativeToolTip": "GameManagement\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAADwAAAAAAAAAAAAnwFEAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAnwE8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-05T14:39:58.026Z",
               "EditorCaption": ""
@@ -208,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\Users\\1171083\\source\\repos\\GameManagement\\GameManagement\\Components\\_Imports.razor",
               "RelativeDocumentMoniker": "GameManagement\\Components\\_Imports.razor",
@@ -220,20 +207,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\1171083\\source\\repos\\GameManagement\\GameManagement\\appsettings.json",
               "RelativeDocumentMoniker": "GameManagement\\appsettings.json",
               "ToolTip": "C:\\Users\\1171083\\source\\repos\\GameManagement\\GameManagement\\appsettings.json",
               "RelativeToolTip": "GameManagement\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-11-05T14:29:42.561Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\1171083\\source\\repos\\GameManagement\\GameManagement\\Program.cs",
               "RelativeDocumentMoniker": "GameManagement\\Program.cs",
@@ -241,8 +228,7 @@
               "RelativeToolTip": "GameManagement\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T16:05:30.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T16:05:30.858Z"
             },
             {
               "$type": "Document",
@@ -258,20 +244,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "GameServiceConnector.cs",
               "DocumentMoniker": "C:\\Users\\1171083\\source\\repos\\GameManagement\\GameManagement\\Data\\GameServiceConnector.cs",
               "RelativeDocumentMoniker": "GameManagement\\Data\\GameServiceConnector.cs",
               "ToolTip": "C:\\Users\\1171083\\source\\repos\\GameManagement\\GameManagement\\Data\\GameServiceConnector.cs",
               "RelativeToolTip": "GameManagement\\Data\\GameServiceConnector.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAuwB8AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwAkAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T15:52:50.236Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "secrets.json",
               "DocumentMoniker": "C:\\Users\\1171083\\AppData\\Roaming\\Microsoft\\UserSecrets\\d4090c96-25c3-4cc4-ac8e-092fbf6c8bc9\\secrets.json",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\d4090c96-25c3-4cc4-ac8e-092fbf6c8bc9\\secrets.json",
@@ -279,25 +265,49 @@
               "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\d4090c96-25c3-4cc4-ac8e-092fbf6c8bc9\\secrets.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-05T15:16:38.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T15:16:38.527Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\1171083\\source\\repos\\GameManagement\\GameManagement\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "GameManagement\\Components\\Pages\\Home.razor",
               "ToolTip": "C:\\Users\\1171083\\source\\repos\\GameManagement\\GameManagement\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "GameManagement\\Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAD4vy0AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-04T16:05:22.728Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
+              "Title": "TokenProvider.cs",
+              "DocumentMoniker": "C:\\Users\\1171083\\source\\repos\\GameManagement\\GameManagement\\Components\\Account\\TokenProvider.cs",
+              "RelativeDocumentMoniker": "GameManagement\\Components\\Account\\TokenProvider.cs",
+              "ToolTip": "C:\\Users\\1171083\\source\\repos\\GameManagement\\GameManagement\\Components\\Account\\TokenProvider.cs",
+              "RelativeToolTip": "GameManagement\\Components\\Account\\TokenProvider.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T15:14:26.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\1171083\\source\\repos\\GameManagement\\GameManagement\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GameManagement\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\1171083\\source\\repos\\GameManagement\\GameManagement\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GameManagement\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-05T15:05:54.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Register.razor",
               "DocumentMoniker": "C:\\Users\\1171083\\source\\repos\\GameManagement\\GameManagement\\Components\\Account\\Pages\\Register.razor",
               "RelativeDocumentMoniker": "GameManagement\\Components\\Account\\Pages\\Register.razor",
@@ -306,18 +316,6 @@
               "ViewState": "AgIAAEcAAAAAAAAAAAAawFUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-05T15:50:58.325Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TokenProvider.cs",
-              "DocumentMoniker": "C:\\Users\\1171083\\source\\repos\\GameManagement\\GameManagement\\Components\\Account\\TokenProvider.cs",
-              "RelativeDocumentMoniker": "GameManagement\\Components\\Account\\TokenProvider.cs",
-              "ToolTip": "C:\\Users\\1171083\\source\\repos\\GameManagement\\GameManagement\\Components\\Account\\TokenProvider.cs",
-              "RelativeToolTip": "GameManagement\\Components\\Account\\TokenProvider.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAkwCMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T15:14:26.709Z"
             },
             {
               "$type": "Document",
