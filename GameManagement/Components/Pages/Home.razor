@@ -3,6 +3,9 @@
 @using GameManagement.Data
 @using GameManagement.Data.Models
 @using Microsoft.AspNetCore.Authorization
+@using Microsoft.AspNetCore.Components.Server.ProtectedBrowserStorage
+
+@inject ProtectedSessionStorage ProtectedSessionStore
 
 <PageTitle>Home</PageTitle>
 
@@ -34,10 +37,19 @@ Welcome to your new app.
     [Inject]
     GameServiceConnector gameServiceConnector { get; set; }
 
+    [CascadingParameter]
+    Task<AuthenticationState> AuthenticationState { get;set; }
+
     List<Game> games = new List<Game>();
 
     protected override async Task OnInitializedAsync()
     {
+        var authState = await AuthenticationState; // getting auth and setting the token to use for the service connector.
+        var token = authState.User.FindFirst("token")?.Value;
+        Console.WriteLine(token);
+
+            gameServiceConnector.SetToken(token);
+        
         games = await gameServiceConnector.GetGameAsync();
         foreach (Game game in games)
         {

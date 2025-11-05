@@ -1,4 +1,5 @@
 ﻿using GameManagement.Data.Models;
+using Microsoft.AspNetCore.Components.Server.ProtectedBrowserStorage;
 using System.Collections.Generic;
 
 namespace GameManagement.Data
@@ -11,6 +12,11 @@ namespace GameManagement.Data
         {
             httpClient = new HttpClient();
             httpClient.BaseAddress = new Uri(endpoint);
+        }
+
+        public void SetToken(string token) 
+        {
+            httpClient.DefaultRequestHeaders.Authorization = new System.Net.Http.Headers.AuthenticationHeaderValue("Bearer", token);
         }
 
         public async Task<List<Game>> GetGameAsync() 

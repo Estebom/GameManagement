@@ -298,3 +298,4 @@ C:\Users\1171083\Source\Repos\GameManagement\GameManagement\obj\Debug\net8.0\ref
 C:\Users\1171083\Source\Repos\GameManagement\GameManagement\obj\Debug\net8.0\GameManagement.pdb
 C:\Users\1171083\Source\Repos\GameManagement\GameManagement\obj\Debug\net8.0\GameManagement.genruntimeconfig.cache
 C:\Users\1171083\Source\Repos\GameManagement\GameManagement\obj\Debug\net8.0\ref\GameManagement.dll
+C:\Users\1171083\Source\Repos\GameManagement\GameManagement\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

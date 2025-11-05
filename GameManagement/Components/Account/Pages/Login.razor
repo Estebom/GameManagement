@@ -4,12 +4,15 @@
 @using Microsoft.AspNetCore.Authentication
 @using Microsoft.AspNetCore.Identity
 @using GameManagement.Data
-
+@using Microsoft.AspNetCore.Components.Server.ProtectedBrowserStorage
+@using System.Security.Claims
 
 @inject SignInManager<GameManagementUser> SignInManager
+@inject UserManager<GameManagementUser> UserManager
 @inject ILogger<Login> Logger
 @inject NavigationManager NavigationManager
 @inject IdentityRedirectManager RedirectManager
+@inject ProtectedSessionStorage ProtectedSessionStore
 
 
 <PageTitle>Log in</PageTitle>
@@ -69,8 +72,14 @@
 @code {
     private string? errorMessage;
 
+    [Inject]
+    TokenProvider tokenProvider { get; set; } = default!;
+
     [CascadingParameter]
     private HttpContext HttpContext { get; set; } = default!;
+
+    [CascadingParameter]
+    private AuthenticationState AuthenticationState { get; set; } = default!;
 
     [SupplyParameterFromForm]
     private InputModel Input { get; set; } = new();
@@ -94,7 +103,15 @@
         var result = await SignInManager.PasswordSignInAsync(Input.Email, Input.Password, Input.RememberMe, lockoutOnFailure: false);
         if (result.Succeeded)
         {
+            GameManagementUser user = await UserManager.GetUserAsync(HttpContext.User);
+            string token = tokenProvider.Create(user); //creating token using the token provider.
 
+            var claims = new List<Claim> //creating claim to store token in cookies
+            {
+                new Claim("token", token)
+            };
+
+            await SignInManager.SignInWithClaimsAsync(user, Input.RememberMe, claims);
 
             Logger.LogInformation("User logged in.");
             RedirectManager.RedirectTo(ReturnUrl);
